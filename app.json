@@ -8,9 +8,9 @@
     "source",
     "Rename"
   ],
-  "success_url": "https://t.me/MO_TECH_GROUP",
-  "website": "https://github.com/MoTechYT",
-  "repository": "https://github.com/MRK-YT/MT-Rename-Bot",
+  "success_url": "https://t.me/Z_Bots_DissCuss",
+  "website": "https://t.me/Z_Bots",
+  "repository": https://github.com/madtoazenzio/Rename-Z-Bots"",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
